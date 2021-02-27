@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": ""
+      }
+    }
+  ],
+  "payId": "donate$gabrielfilip.github.io"
+}
